@@ -1,0 +1,4 @@
+#Fri Jan 13 14:53:29 BDT 2023
+base.0=D\:\\My Project\\flip_login\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
